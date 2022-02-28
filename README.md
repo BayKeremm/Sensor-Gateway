@@ -6,4 +6,4 @@ Data manager is the internal decision making of the program where the running av
 Connection manager accepts incoming TCP connections and drops the inactive TCP connections. \
 Storage manager stores the values in a local SQL server. 
 
-All three threads share a datastructure (linked list) where it is made thread-safe.\
+All three threads share a datastructure (linked list) where it is made thread-safe.
